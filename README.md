@@ -1,1 +1,1 @@
-El primer proyecto de Dregoz con Git. ¡Que emoción!
+El primer proyecto de DregoZ con Git. ¡Que emoción!
